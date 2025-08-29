@@ -1,2 +1,2 @@
 # alex-ndambuki
-Atechnical blog post aboutthe impotance of usingsemantic HTML
+A technical blog post about the impotance of using semantic HTML .
